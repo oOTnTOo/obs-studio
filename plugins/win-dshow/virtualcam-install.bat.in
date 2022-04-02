@@ -48,7 +48,6 @@ goto checkAdmin
 	) else (
 		echo 32-bit Virtual Cam installation failed
 		echo.
-		goto end
 	)
 	goto checkDLLContinue
 
